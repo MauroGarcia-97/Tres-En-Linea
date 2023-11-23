@@ -1,8 +1,9 @@
-# React + Vite
+<strong> Tres En Linea / Tic-Tac-Toe </strong> <br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En Español <br> 
 
-Currently, two official plugins are available:
+Este proyecto permite aplicar conceptos como el manejo de eventos, el estado local y la actualización eficiente del DOM virtual, brindando una comprensión práctica de la filosofía de React. Además, la modularidad inherente a React facilita la organización del código y la escalabilidad del proyecto, proporcionando a los estudiantes una experiencia valiosa en el desarrollo de aplicaciones web modernas. <br> <br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In English<br> <br>
+
+This project allows you to apply concepts such as event handling, local state and efficient updating of the virtual DOM, providing a practical understanding of the React philosophy. Additionally, React's inherent modularity makes code organization and project scalability easier, providing students with valuable experience developing modern web applications.
