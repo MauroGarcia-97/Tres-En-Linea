@@ -1,6 +1,6 @@
 <strong> Tres En Linea / Tic-Tac-Toe. </strong> <br>
 
-<a href="https://tres-en-linea97.netlify.app/">Diviertete Jugando / Have Fun Playing</a>
+<a href="https://tres-en-linea97.netlify.app/" target="_blank">Diviertete Jugando / Have Fun Playing</a>
 
 ![image](https://github.com/MauroGarcia-97/Tres-En-Linea/assets/150713356/ba5bcbe2-66a6-47b9-b3ab-bf99fcddcb6f)
 
