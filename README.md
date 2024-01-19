@@ -41,9 +41,12 @@ Install the dependencies: npm install <br>
 Start the application in development mode: npm run dev
 Open your browser and visit http://localhost:3000 <br>
 
-<strong> Capturas de Pantalla / Screenshots </strong> <br
+<strong> Capturas de Pantalla / Screenshots </strong> <<br>
 
 ![image](https://github.com/MauroGarcia-97/Tres-En-Linea/assets/150713356/ba5bcbe2-66a6-47b9-b3ab-bf99fcddcb6f)
 
 ![image](https://github.com/MauroGarcia-97/Tres-En-Linea/assets/150713356/7911799c-12b5-41bb-8987-b0b000957608)
 
+<strong> Licencia </strong>
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE.md para más detalles.
