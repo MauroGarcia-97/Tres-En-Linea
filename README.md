@@ -15,7 +15,7 @@ Desarrollo Rápido con Vite.js: Entorno de desarrollo eficiente para proyectos R
 
 <strong>Instalación</strong> <br>
 Clona el repositorio: git clone https://github.com/MauroGarcia-97/Tres-En-Linea.git
-Navega al directorio del proyecto: cd TicTacToe-React-Vite
+Navega al directorio del proyecto: cd Tres-En-Linea
 Instala las dependencias: npm install <br>
 
 <strong> Uso </strong> <br>
@@ -34,7 +34,7 @@ Rapid Development with Vite.js: Efficient development environment for React proj
 
 <strong>Installation</strong> <br>
 Clone the repository: git clone https://github.com/MauroGarcia-97/Tres-En-Linea.git
-Navigate to the project directory: cd TicTacToe-React-Vite
+Navigate to the project directory: cd Tres-En-Linea
 Install the dependencies: npm install <br>
 
 <strong> Use</strong>
