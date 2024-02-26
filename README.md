@@ -1,6 +1,6 @@
 <h1> Tres En Linea con React.js y Vite.js / Tic-Tac-Toe with React.js and Vite.js </h1>
 
-<a href="https://hacker-login-9963a6.netlify.app/" target="_blank"> Diviertete Jugando / Have Fun Playing </a>
+<a href="https://tres-en-linea97.netlify.app/" target="_blank"> Diviertete Jugando / Have Fun Playing </a>
 
 <h2> En Español </h2> <br>
 
